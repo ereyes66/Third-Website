@@ -1,0 +1,32 @@
+body{background-color:#D2B48C ;}
+h1{color: black;
+font-size: 50px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+hr{
+    border: 1px solid black;
+}
+
+b{ color: orange;
+font-size: large;
+
+}
+
+#special-bold{color: orange;}
+
+#special-bold2{color: grey;}
+
+#first-par{background-color: ivory;
+padding: 25px;
+border: 2px solid ;
+margin: 25px;
+
+}
+
+#second-par{background-color: ivory;
+padding: 25px;
+border: 2px solid ;
+margin: 25px;
+
+}
